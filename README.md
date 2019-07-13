@@ -242,4 +242,4 @@ To complete this assignment, one must:
 
 ## Issues
 
-If you have found any issues with this lab, e.g., the output of a command didn't match yours, or you have found typos, or one or more sections are worded in a manner that seems confusing or misleading, please bring it to my attention. The best way to do that is to "raise an Issue." Visit [https://github.com/msu-csc232/hw00/issues](https://github.com/msu-csc232/hw00/issues) and tap on the "New Issue" button.
+If you have found any issues with this lab, e.g., the output of a command didn't match yours, or you have found typos, or one or more sections are worded in a manner that seems confusing or misleading, please bring it to my attention. The best way to do that is to "raise an Issue." Visit [https://github.com/msu-csc232-fa19/hw00/issues](https://github.com/msu-csc232-fa19/hw00/issues) and tap on the "New Issue" button.
