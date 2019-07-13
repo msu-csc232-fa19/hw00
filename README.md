@@ -1,11 +1,12 @@
 # hw00
+
 This non-graded assignment is used just to get students linked into the CSC232 GitHub Classroom managed by Jim Daehn.
 
 _As suggested in the previous sentence, this is a non-graded assignment. Whether you choose to work on this or not is your perrogative. The end-goal of this assignment is to simply link you to my GitHub classroom. This will happen simply by virtue of you following the assignment link provided to you by your instructor._
 
 ## Goals
 
-Upon completion of this assignment, the student will have learned to 
+Upon completion of this assignment, the student will have learned to
 
 * accept a GitHub Education assignment
 * clone a repository from GitHub
@@ -62,12 +63,11 @@ When you tap on that button, you actually have two different options for cloning
 Once you have obtained the repository's URL, cloning is done by simply executing the following `git` command:
 
 ```bash
-$ git clone https://github.com/msu-csc232/hw00-your-github-username.git
+git clone https://github.com/msu-csc232/hw00-your-github-username.git
 ```
 
 Please note the following:
 
-1. The `$` is the command line prompt, it is _not_ to be typed on the command line.
 1. The above command assumes the name of the repository is `hw00-your-github-username`. When your instructor creates assignments, they'll always have a prefix like `hw00` (for homework 0) followed by a hyphen followed by your GitHub username. As such, you shouldn't type that command verbatim. Instead, substitute the URL following the word `clone` with whatever you copied by tapping on the clone button on your repository when viewewd online in GitHub.
 1. Before issuing this `git` command, it is assumed you have navigated to the folder in which you want this repository cloned. For example, before doing this, you may want to create a "working" directory for this class with the following commands:
 
